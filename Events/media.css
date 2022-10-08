@@ -1,0 +1,257 @@
+@media screen and (max-width:480px){
+  html{
+    overflow-x: hidden;
+    scroll-behavior: smooth;
+  }
+  nav{
+  width: 100%;
+  position: absolute;
+}
+.navbar .logo img{
+    width: 240px;
+  margin-top: 10px;
+  margin-left: px;
+}
+nav .navbar .nav-links{
+    position: fixed;
+    top: 0;
+    left: -100%;
+    display: block;
+    max-width: 270px;
+    width: 100%;
+    background: black;
+    line-height: 40px;
+    padding: 20px;
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
+    transition: all 0.5s ease;
+    z-index: 1000;
+    overflow: auto;
+    overflow-x: hidden;
+  }
+  .header{
+ 
+    background-image: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url(https://cdn.pixabay.com/photo/2021/06/01/03/52/interactive-6300483_960_720.jpg);
+    min-height: 100vh;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    justify-content: stretch;
+    margin-top: 0px;
+    width: 100%;
+
+}
+#about{
+  margin-top: 30px;
+}
+
+  .header .container a button{
+outline: none;
+width: 54%;
+margin-left: 70px;
+font-size: 24px;
+
+}
+ .header .container a button span i{
+  font-size: 18px;
+ }
+
+#starts{
+  font-size: 24px;
+  text-align: center;
+  margin-left: -5px;
+}
+.hover{
+  margin-top: -100px;
+}
+.hover.col-sm-6::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  z-index: -1;
+  background-color:black;
+
+  transition: transform 300ms ease-in-out;
+  transform: scaleX(0);
+  transform-origin: left;
+}
+
+
+.sidebar-logo  i,
+    .navbar .bx-menu{
+      font-size: 25px;
+      color: #fff;
+     margin-left: -20px;
+     margin-top: -7px;
+    }
+.header h1:after {
+  content: "";
+  display: none;
+  width: 80px;
+  height: 4px;
+  background: orange;
+  right: 35%;
+  top: 130%;
+  position: absolute;
+}
+.upcoming h1{
+  font-size: 32px;
+}
+.upcoming h1:after {
+  content: "";
+  display: block;
+  width: 70px;
+  height: 4px;
+  background: orange;
+  right: 40%;
+  top: 140%;
+  position: absolute;
+}
+/*content to be added*/
+.new_event h2{
+  font-size: 30px;
+}
+.new_event .row .col-sm-4 img{
+  margin-left: 50px;
+  margin-top: 20px;
+  
+
+}
+#timer{
+  margin-left: 200px;
+}
+.new_event{
+  width: 95%;
+}
+.new_event .row .col-sm-4 .launch-time p,span{
+  font-size: 28px;
+}
+
+
+
+.container .row .col-sm-6 .mySlides{
+  width: 125%;
+  height: 125%;
+}
+#about{
+   margin-top: -40px;
+}
+.col-sm-6 h2{
+  font-size: 30px;
+
+}
+.col-sm-6 p{
+  font-size: 18px;
+}
+.btn-success{
+  margin-left: 80px;
+  margin-top: 15px;
+  margin-bottom: 15px ;
+}
+#description{
+  margin-left: -50px;
+}
+.timeline-header h1{
+margin-top: 15px;
+margin-bottom: 10px;
+font-size: 32px;
+}
+
+.timeline-header h1:after {
+  content: "";
+  display: block;
+  width: 60px;
+  height: 4px;
+  background: orange;
+  right: 40%;
+  top: 130%;
+  position: absolute;
+}
+.registration h2{
+
+}
+form input[type=text],input[type="email"], select,textarea {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  margin-top: 6px;
+  margin-bottom: 16px;
+  resize: vertical;
+  color: black;
+  outline: 0px;
+}
+form input[type="email"]{
+  width: 100%;
+
+}
+form{
+  text-align: center;
+}
+form input[type=submit] {
+  color: black;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  width: 100%;
+}
+.speaker h1{
+  font-size: 32px;
+}
+.speaker h1:after {
+  content: "";
+  display: block;
+  width: 60px;
+  height: 4px;
+  background: orange;
+  right: 40%;
+  top: 130%;
+  position: absolute;
+}
+.registration h1{
+  font-size: 28px;
+}
+#startupweek{
+  width: 100%;
+  margin-top: 20px;
+}
+.container .row .col-sm-6 img{
+  width: 100%;
+}
+.container .row .col-sm-6 #description{
+  margin-left: 120px;
+}
+.container .row .col-sm-6 p{
+  font-size: 17px;
+}
+.container .row .col-sm-6 a{
+  width: 90%;
+  margin-left: 0px;
+}
+#events h1{
+  font-size: 32px;
+}
+#events h1:after {
+  content: "";
+  display: block;
+  width: 80px;
+  height: 4px;
+  background: orange;
+  right: 40%;
+  top: 130%;
+  position: absolute;
+}
+.wrapper{
+  width: 100%;
+  margin-left: 0px;
+}
+
+}
