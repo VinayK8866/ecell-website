@@ -1,0 +1,2582 @@
+@media screen and (max-width: 310px){
+  nav{
+  width: 100%;
+  position: absolute;
+}
+  .container .row .col-sm-6 iframe{
+   width: 100%;
+
+  }
+  
+.logo a img{
+    width: 240px;
+  margin-top: 10px;
+  margin-left: 25px;
+}
+  .sidebar-logo  i,
+    .navbar .bx-menu{
+      font-size: 25px;
+      color: #fff;
+     margin-left: -20px;
+     margin-top: -7px;
+    }
+
+    #tag blockquote{
+      font-size: 16px;
+
+     }
+    #tag h1{
+      font-size: 24px;
+      font-weight: 500;
+    }
+    nav{
+  position:absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  height: 85px;
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
+  z-index:599;
+  border-bottom: none;
+  background: #000000;
+}
+
+  nav .navbar .nav-links{
+    position: fixed;
+    top: 0;
+    left: -100%;
+    display: block;
+    max-width: 100%;
+    width: 100%;
+    background: black;
+    line-height: 40px;
+    padding: 20px;
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
+    transition: all 0.5s ease;
+    z-index: 1000;
+    overflow: auto;
+    overflow-x: hidden;
+  }
+  
+  
+     #tag blockquote{
+      font-size: 12px;
+
+     }
+    #tag h1{
+      font-size: 20px;
+      font-weight: 500 !important;
+    }
+    #about h2{
+       font-size: 20px !important;
+      font-weight: 500 !important;
+
+    }
+    .events h2{
+       font-size: 20px;
+      font-weight: 500 !important;
+
+    }
+/*Vision and mission*/
+#particles-js{
+    background:#1a1a1a;
+    padding: 15px;
+    height: 120vh;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;   
+    flex-direction: column;
+    justify-content: stretch;
+}
+#particles-js .container .row #vision{
+  margin-top: -75px;
+}
+#particles-js .container .row #mission{
+
+}
+  #particles-js .container .row #vision .heading h1{
+  margin-left:0px;
+ }
+ #particles-js .container .row #mission .heading h1{
+  margin-left:0px;
+  
+ }
+  .heading h1{
+    text-align: center;
+    font-weight: 800 !important;
+    color:#e69500;
+    font-size: 30px !important;
+
+  }
+  .text h3{
+    font-size: 16px !important;
+    color: #fff !important;
+    width:90%;
+  }
+  .custom-shape-divider-top-1635408830 {
+   
+    width: 150%;
+    overflow: hidden;
+   
+}
+.custom-shape-divider-bottom-1635442293 {
+
+    width: 180%;
+    overflow: hidden;
+}
+
+.custom-shape-divider-bottom-1635442293 svg {
+    position: relative;
+    display: block;
+    width: calc(100% + 1.3px);
+    height: 84px;
+}
+
+/*End of Vision*/
+    @keyframes slider{
+    0%{
+       background-image:url(back.png);  
+      background-size: 100% 100%; 
+          animation: slider 9s infinite linear;
+
+      min-height: 100vh;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    justify-content: stretch;
+
+    }
+    10%{
+      
+      background-image:linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),url(https://www.amity.edu/mumbai/images/university.jpg); 
+
+       background-size: 100% 100%; 
+           animation: slider 9s infinite linear;
+
+        background-size: 100% 100%; 
+      min-height: 100vh;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    justify-content: stretch;
+     }
+
+}
+  
+.container .row .col-sm-6 img{
+  width: 80%;
+}
+.header .arrows span{
+  display: block;
+    width: 14px;
+    height: 14px;
+}
+#about h2:after {
+  content: "";
+  display: block;
+  width: 50px;
+  height: 4px;
+  background: #0a3057;
+  right: 45%;
+  top: 145%;
+  position: absolute;
+}
+.events h2:after {
+  content: "";
+  display: block;
+  width: 50px;
+  height: 4px;
+  background: #0a3057;
+  right: 45%;
+  top: 145%;
+  position: absolute;
+}
+/*startups*/
+.custom-shape-divider-top-1635434637 {
+    width: 120%;
+    overflow: hidden;
+  
+   
+}
+.custom-shape-divider-bottom-1635434251 {
+    width: 180%;
+    overflow: hidden;
+}
+.startups h1{
+  text-align: center;
+  font-weight: 600 !important;
+  color:#000000;
+  font-size:30px !important;
+  margin-bottom: 25px;
+  position: relative;
+}
+.startups h1:after {
+  content: "";
+  display: block;
+  width: 60px;
+  height: 4px;
+  background: #0a3057;
+  right: 40%;
+  top: 130%;
+  position: absolute;
+}
+.testim .cont div .img img{
+    display: block;
+    width: 70%;
+    height: 70%;
+    margin: auto;
+    
+}
+.testim{
+    width: 100%;
+    background:#1a1a1a;
+    padding: 15px;
+    min-height: 110vh;
+}
+.testim .wrap{
+    
+    margin-top: 90px;
+}
+/*end of startups*/
+input[type=text],input[type="mail"], select, textarea {
+  width: 90%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  margin-top: 6px;
+  margin-bottom: 16px;
+  resize: vertical;
+  color: black;
+  outline: 0px;
+}
+
+input[type=submit] {
+  color: black;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  width: 90%;
+}
+#contact .getintouch h1{
+  font-size: 24px;
+}
+#contact .getintouch h4{
+  font-size: 14px;
+}
+
+.container .row .col-sm-6 h1{
+  font-size: 24px;
+}
+.fa-arrow-up{
+  display:none;
+  padding: 6px;
+  border-radius: 40px;
+  font-size: 14px;
+  color: white;
+  cursor: pointer;
+  color: black;
+  background-color: #d1e3fa;
+}
+/*new component
+*/
+
+ .container .row .col-sm-4 h1{
+  color: #ffffff;
+  font-size: 35px;
+}
+.container .row .col-sm-4 h3{
+  font-size: 24px;
+}
+.btn-success{
+ border-radius: 0px;
+ outline: 0px;
+ margin-top: 10px;
+ margin-bottom: 5px;
+} 
+ .container .row .col-sm-4 h2{
+  display: none;
+  }
+  /*Should be added*/
+  .new_event{
+     width: 94%;
+  }
+  .new_event .row .col-sm-4 h1{
+    margin-left: -14px;
+  }
+  .new_event .row .col-sm-4 a button{
+    margin-left: -14px;
+  }
+  .container .row .col-sm-4 a{
+    margin-left: 0px;
+  }
+  .launch-time{
+    margin-top: -45px;
+  }
+  
+  .launch-time div p{
+    font-size: 30px;
+
+  }
+  .launch-time div span{
+    font-size: 18px;
+  }
+  .rocket{
+    display: none;
+  }
+  .col-sm-2 li a i{
+  font-size: 28px;
+  color: white;
+    padding: 10px;
+    align-items: center;
+    margin: 5px;
+
+}
+.custom-shape-divider-top-1635434637 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 120%;
+    overflow: hidden;
+    line-height: 0;
+}
+html{
+  overflow-x: hidden;
+}
+
+}
+ 
+
+ @media screen and (min-width: 310px) and (max-width: 390px){
+  nav{
+  width: 100%;
+  position: absolute;
+  background-color: #000000;
+}
+
+  .container .row .col-sm-6 iframe{
+   width: 100%;
+
+  }
+  
+.logo a img{
+    width: 240px;
+  margin-top: 10px;
+  margin-left: 25px;
+}
+  .sidebar-logo  i,
+    .navbar .bx-menu{
+      font-size: 25px;
+      color: #fff;
+     margin-left: -20px;
+     margin-top: -7px;
+    }
+    #tag blockquote{
+      font-size: 16px;
+
+     }
+    #tag h1{
+      font-size: 24px;
+      font-weight: 500;
+    }
+
+  nav .navbar .nav-links{
+    position: fixed;
+    top: 0;
+    left: -100%;
+    display: block;
+    max-width: 100%;
+    width: 100%;
+    background: black;
+    line-height: 40px;
+    padding: 20px;
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
+    transition: all 0.5s ease;
+    z-index: 1000;
+    overflow: auto;
+    overflow-x: hidden;
+  }
+  
+  
+     #tag blockquote{
+      font-size: 14px;
+
+     }
+    #tag h1{
+      font-size: 25;
+      font-weight: 500 !important;
+    }
+    #about h2{
+       font-size: 25px !important;
+      font-weight: 500 !important;
+
+    }
+    .events h2{
+       font-size: 22px;
+      font-weight: 500;
+
+    }
+/*Vision and mission*/
+#particles-js{
+    background:#1a1a1a;
+    padding: 15px;
+    min-height:125vh !important;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;   
+    flex-direction: column;
+    justify-content: stretch;
+}
+#particles-js .container .row #vision{
+  margin-top: -42px;
+}
+
+  #particles-js .container .row #vision .heading h1{
+  margin-left:0px;
+ }
+ #particles-js .container .row #mission .heading h1{
+  margin-left:0px;
+  
+ }
+  .heading h1{
+    text-align: center;
+    font-weight: 800 !important;
+    color:#e69500;
+    font-size: 35px !important;
+
+  }
+  .text p{
+    font-size: 15px !important;
+    color: #fff !important;
+    width:96%;
+  }
+  .custom-shape-divider-top-1635408830 {
+   
+    width: 150%;
+    overflow: hidden;
+   
+}
+.custom-shape-divider-bottom-1635442293 {
+
+    width: 180%;
+    overflow: hidden;
+}
+
+.custom-shape-divider-bottom-1635442293 svg {
+    position: relative;
+    display: block;
+    width: calc(100% + 1.3px);
+    height: 84px;
+}
+
+/*End of Vision*/
+    @keyframes slider{
+    0%{
+       background-image:url(back.png);  
+      background-size: 100% 100%; 
+          animation: slider 9s infinite linear;
+
+      min-height: 100vh;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    justify-content: stretch;
+
+    }
+    10%{
+      
+      background-image:linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),url(https://www.amity.edu/mumbai/images/university.jpg); 
+
+       background-size: 100% 100%; 
+           animation: slider 9s infinite linear;
+
+        background-size: 100% 100%; 
+      min-height: 100vh;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    justify-content: stretch;
+     }
+
+}
+  
+.container .row .col-sm-6 img{
+  width: 80%;
+}
+.header .arrows span{
+  display: block;
+    width: 14px;
+    height: 14px;
+}
+#about h2:after {
+  content: "";
+  display: block;
+  width: 50px;
+  height: 4px;
+  background: #0a3057;
+  right: 45%;
+  top: 145%;
+  position: absolute;
+}
+.events h2:after {
+  content: "";
+  display: block;
+  width: 50px;
+  height: 4px;
+  background: #0a3057;
+  right: 45%;
+  top: 145%;
+  position: absolute;
+}
+/*startups*/
+.custom-shape-divider-top-1635434637 {
+    width: 170%;
+    overflow: hidden;
+   
+}
+.custom-shape-divider-bottom-1635434251 {
+    width: 200%;
+    overflow: hidden;
+}
+.startups h1{
+  text-align: center;
+  font-weight: 600 !important;
+  color:#000000;
+  font-size:30px !important;
+  margin-bottom: 25px;
+  position: relative;
+}
+.startups h1:after {
+  content: "";
+  display: block;
+  width: 60px;
+  height: 4px;
+  background: #0a3057;
+  right: 40%;
+  top: 130%;
+  position: absolute;
+}
+.testim .cont div .img img{
+    display: block;
+    width: 70%;
+    height: 70%;
+    margin: auto;
+    
+}
+.testim{
+    width: 100%;
+    background:#1a1a1a;
+    padding: 15px;
+    min-height: 110vh;
+}
+.testim .wrap{
+    position: relative;
+    width: 100%;
+    max-width: 1020px;
+    padding: 40px 20px;
+    margin: auto;
+    margin-top: 100px;
+}
+/*end of startups*/
+input[type=text],input[type="mail"], select, textarea {
+  width: 90%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  margin-top: 6px;
+  margin-bottom: 16px;
+  resize: vertical;
+  color: black;
+  outline: 0px;
+}
+
+input[type=submit] {
+  color: black;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  width: 90%;
+}
+#contact .getintouch h1{
+  font-size: 24px;
+}
+#contact .getintouch h4{
+  font-size: 14px;
+}
+
+.container .row .col-sm-6 h1{
+  font-size: 24px;
+}
+.fa-chevron-up{
+   display:none;
+  padding: 6px;
+  border-radius: 40px;
+  font-size: 14px;
+  color: white;
+  cursor: pointer;
+  color: black;
+  background-color: #d1e3fa;
+}
+/*new component
+*/
+
+ .container .row .col-sm-4 h1{
+  color: #ffffff;
+  font-size: 35px;
+}
+.container .row .col-sm-4 h3{
+  font-size: 24px;
+}
+.btn-success{
+ border-radius: 0px;
+ outline: 0px;
+ margin-top: 10px;
+ margin-bottom: 5px;
+} 
+ .container .row .col-sm-4 h2{
+  display: none;
+  }
+  /*Should be added*/
+  .new_event{
+     width: 94%;
+  }
+  .new_event .row .col-sm-4 h1{
+    margin-left: -14px;
+  }
+  .new_event .row .col-sm-4 a button{
+    margin-left: -14px;
+  }
+  .container .row .col-sm-4 a{
+    margin-left: 0px;
+  }
+  .launch-time{
+    margin-top: -45px;
+  }
+  
+  .launch-time div p{
+    font-size: 30px;
+
+  }
+  .launch-time div span{
+    font-size: 18px;
+  }
+  .rocket{
+    display: none;
+  }
+html{
+  overflow-x: hidden;
+}
+
+  
+}
+
+
+@media screen and (min-width: 390px) and (max-width: 425px){
+nav{
+  width: 100%;
+  position: absolute;
+    background-color: #000000;
+
+}
+  .container .row .col-sm-6 iframe{
+   width: 100%;
+
+  }
+  
+.logo a img{
+    width: 240px;
+  margin-top: 10px;
+  margin-left: 25px;
+}
+  .sidebar-logo  i,
+    .navbar .bx-menu{
+      font-size: 25px;
+      color: #fff;
+     margin-left: -20px;
+     margin-top: -7px;
+    }
+    #tag blockquote{
+      font-size: 16px;
+
+     }
+    #tag h1{
+      font-size: 24px;
+      font-weight: 500;
+    }
+
+  nav .navbar .nav-links{
+    position: fixed;
+    top: 0;
+    left: -100%;
+    display: block;
+    max-width: 100%;
+    width: 100%;
+    background: black;
+    line-height: 40px;
+    padding: 20px;
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
+    transition: all 0.5s ease;
+    z-index: 1000;
+    overflow: auto;
+    overflow-x: hidden;
+  }
+  
+  
+     #tag blockquote{
+      font-size: 14px;
+
+     }
+    #tag h1{
+      font-size: 25;
+      font-weight: 500 !important;
+    }
+    #about h2{
+       font-size: 25px !important;
+      font-weight: 500 !important;
+
+    }
+    .events h2{
+       font-size: 22px;
+      font-weight: 500;
+
+    }
+/*Vision and mission*/
+#particles-js{
+    background:#1a1a1a;
+    padding: 15px;
+    height: 110vh;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;   
+    flex-direction: column;
+    justify-content: stretch;
+}
+#particles-js .container .row #vision{
+  margin-top: 25px;
+}
+#particles-js .container .row #mission{
+
+}
+  #particles-js .container .row #vision .heading h1{
+  margin-left:0px;
+ }
+ #particles-js .container .row #mission .heading h1{
+  margin-left:0px;
+  
+ }
+  .heading h1{
+    text-align: center;
+    font-weight: 800 !important;
+    color:#e69500;
+    font-size: 35px !important;
+
+  }
+  .text p{
+    font-size: 16px !important;
+    color: #fff !important;
+    width:90%;
+  }
+  .custom-shape-divider-top-1635408830 {
+   
+    width: 150%;
+    overflow: hidden;
+   
+}
+.custom-shape-divider-bottom-1635442293 {
+
+    width: 180%;
+    overflow: hidden;
+}
+
+.custom-shape-divider-bottom-1635442293 svg {
+    position: relative;
+    display: block;
+    width: calc(100% + 1.3px);
+    height: 84px;
+}
+
+/*End of Vision*/
+    @keyframes slider{
+    0%{
+       background-image:url(back.png);  
+      background-size: 100% 100%; 
+          animation: slider 9s infinite linear;
+
+      min-height: 100vh;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    justify-content: stretch;
+
+    }
+    10%{
+      
+      background-image:linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),url(https://www.amity.edu/mumbai/images/university.jpg); 
+
+       background-size: 100% 100%; 
+           animation: slider 9s infinite linear;
+
+        background-size: 100% 100%; 
+      min-height: 100vh;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    justify-content: stretch;
+     }
+
+}
+  
+.container .row .col-sm-6 img{
+  width: 80%;
+}
+.header .arrows span{
+  display: block;
+    width: 14px;
+    height: 14px;
+}
+#about h2:after {
+  content: "";
+  display: block;
+  width: 50px;
+  height: 4px;
+  background: #0a3057;
+  right: 45%;
+  top: 145%;
+  position: absolute;
+}
+.events h2:after {
+  content: "";
+  display: block;
+  width: 50px;
+  height: 4px;
+  background: #0a3057;
+  right: 45%;
+  top: 145%;
+  position: absolute;
+}
+/*startups*/
+.custom-shape-divider-top-1635434637 {
+    width: 170%;
+    overflow: hidden;
+   
+}
+.custom-shape-divider-bottom-1635434251 {
+    width: 200%;
+    overflow: hidden;
+}
+.testim{
+    width: 100%;
+    background:#1a1a1a;
+    padding: 15px;
+    min-height: 100vh;
+}
+.testim .wrap{
+    position: relative;
+    width: 100%;
+    max-width: 1020px;
+    padding: 40px 20px;
+    margin: auto;
+    margin-top: 100px;
+}
+.startups h1{
+  text-align: center;
+  font-weight: 600 !important;
+  color:#000000;
+  font-size:30px !important;
+  margin-bottom: 25px;
+  position: relative;
+}
+.startups h1:after {
+  content: "";
+  display: block;
+  width: 60px;
+  height: 4px;
+  background: #0a3057;
+  right: 40%;
+  top: 130%;
+  position: absolute;
+}
+.testim .cont div .img img{
+    display: block;
+    width: 70%;
+    height: 70%;
+    margin: auto;
+    
+}
+/*end of startups*/
+input[type=text],input[type="mail"], select, textarea {
+  width: 90%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  margin-top: 6px;
+  margin-bottom: 16px;
+  resize: vertical;
+  color: black;
+  outline: 0px;
+}
+
+input[type=submit] {
+  color: black;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  width: 90%;
+}
+#contact .getintouch h1{
+  font-size: 24px;
+}
+#contact .getintouch h4{
+  font-size: 14px;
+}
+
+.container .row .col-sm-6 h1{
+  font-size: 24px;
+}
+.fa-chevron-up{
+   display:none;
+  padding: 6px;
+  border-radius: 40px;
+  font-size: 14px;
+  color: white;
+  cursor: pointer;
+  color: black;
+  background-color: #d1e3fa;
+}
+/*new component
+*/
+
+ .container .row .col-sm-4 h1{
+  color: #ffffff;
+  font-size: 35px;
+}
+.container .row .col-sm-4 h3{
+  font-size: 24px;
+}
+.btn-success{
+ border-radius: 0px;
+ outline: 0px;
+ margin-top: 10px;
+ margin-bottom: 5px;
+} 
+ .container .row .col-sm-4 h2{
+  display: none;
+  }
+  /*Should be added*/
+  .new_event{
+     width: 94%;
+  }
+  .new_event .row .col-sm-4 h1{
+    margin-left: -14px;
+  }
+  .new_event .row .col-sm-4 a button{
+    margin-left: -14px;
+  }
+  .container .row .col-sm-4 a{
+    margin-left: 0px;
+  }
+  .launch-time{
+    margin-top: -45px;
+  }
+  
+  .launch-time div p{
+    font-size: 30px;
+
+  }
+  .launch-time div span{
+    font-size: 18px;
+  }
+  .rocket{
+    display: none;
+  }
+html{
+  overflow-x: hidden;
+}
+
+
+
+}
+
+
+@media screen and (min-width: 425px) and (max-width: 470px){
+   nav{
+  width: 100%;
+  position: absolute;
+    background-color: #000000;
+
+}
+  .container .row .col-sm-6 iframe{
+   width: 100%;
+
+  }
+.logo a img{
+    width: 270px;
+  margin-top: 10px;
+  margin-left: 0px;
+}
+  .sidebar-logo  i,
+    .navbar .bx-menu{
+      font-size: 25px;
+      color: #fff;
+     margin-left: -20px;
+     margin-top: -7px;
+    }
+    #tag h1{
+      font-size: 26px;
+      font-weight: 500;
+    }
+  nav .navbar .nav-links{
+    position: fixed;
+    top: 0;
+    left: -100%;
+    display: block;
+    max-width: 350px;
+    width: 100%;
+    background: black;
+    line-height: 40px;
+    padding: 20px;
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
+    transition: all 0.5s ease;
+    z-index: 1000;
+    overflow: auto;
+    overflow-x: hidden;
+  }
+  
+     #tag blockquote{
+      font-size: 17px;
+
+     }
+    #tag h1{
+      font-size: 25px;
+      font-weight: 500;
+    }
+    #about h2{
+       font-size: 28px;
+      font-weight: 500;
+
+    }
+    .events h2{
+       font-size: 24px;
+      font-weight: 500;
+
+    }
+    @keyframes slider{
+    0%{
+       background-image:url(back.png);  
+      background-size: 100% 100%; 
+          animation: slider 9s infinite linear;
+
+      min-height: 115vh;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    justify-content: stretch;
+
+    }
+    10%{
+      
+      background-image:linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),url(https://www.amity.edu/mumbai/images/university.jpg); 
+
+       background-size: 100% 100%; 
+           animation: slider 9s infinite linear;
+
+        background-size: 100% 100%; 
+      min-height: 100vh;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    justify-content: stretch;
+     }
+
+
+}
+
+.container .row .col-sm-6 img{
+  width: 80%;
+}
+.header .arrows span{
+  display: block;
+    width: 14px;
+    height: 14px;
+}
+.events h2{
+  font-size: 27px;
+}
+#about h2:after {
+  content: "";
+  display: block;
+  width: 50px;
+  height: 4px;
+  background: #0a3057;
+  right: 45%;
+  top: 145%;
+  position: absolute;
+}
+.events h2:after {
+  content: "";
+  display: block;
+  width: 50px;
+  height: 4px;
+  background: #0a3057;
+  right: 45%;
+  top: 145%;
+  position: absolute;
+}
+/*Vision and mission*/
+#particles-js{
+    background:#1a1a1a;
+    padding: 15px;
+    height: 105vh;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;   
+    flex-direction: column;
+    justify-content: stretch;
+}
+#particles-js .container .row #vision{
+  margin-top: 0px;
+}
+#particles-js .container .row #mission{
+
+}
+  #particles-js .container .row #vision .heading h1{
+  margin-left:0px;
+ }
+ #particles-js .container .row #mission .heading h1{
+  margin-left:0px;
+  
+ }
+  .heading h1{
+    text-align: center;
+    font-weight: 800 !important;
+    color:#e69500;
+    font-size: 35px !important;
+
+  }
+  .text p{
+    font-size: 16px !important;
+    color: #fff !important;
+    width:90%;
+  }
+  .custom-shape-divider-top-1635408830 {
+   
+    width: 150%;
+    overflow: hidden;
+   
+}
+.custom-shape-divider-bottom-1635442293 {
+
+    width: 180%;
+    overflow: hidden;
+}
+
+.custom-shape-divider-bottom-1635442293 svg {
+    position: relative;
+    display: block;
+    width: calc(100% + 1.3px);
+    height: 84px;
+}
+
+/*End of Vision*/
+
+input[type=text],input[type="mail"], select, textarea {
+  width: 90%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  margin-top: 6px;
+  margin-bottom: 16px;
+  resize: vertical;
+  color: black;
+  outline: 0px;
+}
+
+input[type=submit] {
+  color: black;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  width: 90%;
+}
+#contact .getintouch h1{
+  font-size: 27px;
+}
+#contact .getintouch h4{
+  font-size: 17px;
+}
+
+.container .row .col-sm-6 h1{
+  font-size: 24px;
+}
+.fa-chevron-up{
+   display:none;
+  padding: 6px;
+  border-radius: 40px;
+  font-size: 14px;
+  color: white;
+  cursor: pointer;
+  color: black;
+  background-color: #d1e3fa;
+}
+/*new component
+*/
+
+ .container .row .col-sm-4 h1{
+  color: #ffffff;
+  font-size: 35px;
+}
+.container .row .col-sm-4 h3{
+  font-size: 24px;
+}
+
+ .container .row .col-sm-4 h2{
+  display: none;
+  }
+  /*Should be added*/
+  .container .row .col-sm-4 a{
+    margin-left: 50px;
+  }
+  .launch-time{
+    margin-top: -45px;
+    margin-left: 30px;
+  }
+  
+  .launch-time div p{
+    font-size: 30px;
+  }
+  .launch-time div span{
+    font-size: 18px;
+  }
+  .rocket{
+    display: none;
+  }
+html{
+  overflow-x: hidden;
+}
+
+  
+
+}
+@media screen and (min-width: 470px) and (max-width: 740px){
+   nav{
+  width: 100%;
+  position: absolute;
+    background-color: #000000;
+
+}
+  .container .row .col-sm-6 iframe{
+   width: 100%;
+
+  }
+
+.logo a img{
+    width: 270px;
+  margin-top: 10px;
+  margin-left: -50px;
+}
+  .sidebar-logo  i,
+    .navbar .bx-menu{
+      font-size: 25px;
+      color: #fff;
+     margin-left:-120px;
+     margin-top: -7px;
+    }
+    #tag h1{
+      font-size: 28px;
+      font-weight: 500;
+    }
+
+  nav .navbar .nav-links{
+    position: fixed;
+    top: 0;
+    left: -100%;
+    display: block;
+    max-width: 350px;
+    width: 100%;
+    background: black;
+    line-height: 40px;
+    padding: 20px;
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
+    transition: all 0.5s ease;
+    z-index: 1000;
+    overflow: auto;
+    overflow-x: hidden;
+  }
+  
+  
+     #tag blockquote{
+      font-size: 18px;
+
+     }
+    #tag h1{
+      font-size: 25;
+      font-weight: 500;
+    }
+    #about h2{
+       font-size: 28px;
+      font-weight: 500;
+
+    }
+    .events h2{
+       font-size: 24px;
+      font-weight: 500;
+
+    }
+    
+    @keyframes slider{
+    0%{
+       background-image:url(back.png);  
+      background-size: 100% 100%; 
+          animation: slider 9s infinite linear;
+
+      min-height: 110vh;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    justify-content: stretch;
+
+    }
+    10%{
+      
+      background-image:linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),url(https://www.amity.edu/mumbai/images/university.jpg); 
+
+       background-size: 100% 100%; 
+           animation: slider 9s infinite linear;
+
+        background-size: 100% 100%; 
+      min-height: 100vh;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    justify-content: stretch;
+     }
+
+}
+
+.container .row .col-sm-6 img{
+  width: auto;
+}
+.header .arrows span{
+  display: block;
+    width: 18px;
+    height: 18px;
+}
+.events h2{
+  font-size: 29px;
+}
+#about h2{
+  font-size: 29px;
+}
+#what h1{
+  font-size: 29px;
+}
+#about h2:after {
+  content: "";
+  display: block;
+  width: 50px;
+  height: 4px;
+  background: #0a3057;
+  right: 45%;
+  top: 145%;
+  position: absolute;
+}
+.events h2:after {
+  content: "";
+  display: block;
+  width: 50px;
+  height: 4px;
+  background: #0a3057;
+  right: 45%;
+  top: 145%;
+  position: absolute;
+}
+/*Vision and mission*/
+#particles-js{
+    background:#1a1a1a;
+    padding: 15px;
+    height: 110vh;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;   
+    flex-direction: column;
+    justify-content: stretch;
+}
+#particles-js .container .row #vision{
+  margin-top:0px;
+}
+#particles-js .container .row #mission{
+
+}
+  #particles-js .container .row #vision .heading h1{
+  margin-left:-100px;
+ }
+ #particles-js .container .row #mission .heading h1{
+  margin-left:-100px;
+  
+ }
+  .heading h1{
+    text-align: center;
+    font-weight: 800 !important;
+    color:#e69500;
+    font-size: 35px !important;
+
+  }
+  .text p{
+    font-size: 16px !important;
+    color: #fff !important;
+    width:95%;
+  }
+  .custom-shape-divider-top-1635408830 {
+   
+    width: 120%;
+    overflow: hidden;
+   
+}
+.custom-shape-divider-bottom-1635442293 {
+
+    width: 140%;
+    overflow: hidden;
+}
+
+.custom-shape-divider-bottom-1635442293 svg {
+    position: relative;
+    display: block;
+    width: calc(100% + 1.3px);
+    height: 84px;
+}
+
+/*End of Vision*/
+input[type=text],input[type="mail"], select, textarea {
+  width: 70%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  margin-top: 6px;
+  margin-bottom: 16px;
+  resize: vertical;
+  color: black;
+  outline: 0px;
+}
+
+input[type=submit] {
+  color: black;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  width: 70%;
+}
+#contact .getintouch h1{
+  font-size: 27px;
+}
+#contact .getintouch h4{
+  font-size: 17px;
+}
+
+.container .row .col-sm-6 h1{
+  font-size: 24px;
+}
+.fa-chevron-up{
+   display:none;
+  padding: 6px;
+  border-radius: 40px;
+  font-size: 14px;
+  color: white;
+  cursor: pointer;
+  color: black;
+  background-color: #d1e3fa;
+}
+/*new component
+*/
+.new_event{
+  text-align: center;
+  width: auto;
+}
+ .container .row .col-sm-4 h1{
+  color: #ffffff;
+  font-size: 35px;
+}
+.container .row .col-sm-4 h3{
+  font-size: 24px;
+}
+
+ .container .row .col-sm-4 h2{
+  display: none;
+  }
+  /*Should be added*/
+  .container .row .col-sm-4 a{
+    margin-left: -130px;
+  }
+  .launch-time div{
+    margin-top: -45px;
+    margin-left: 8%;
+    text-align: center;
+  }
+  
+  .launch-time div p{
+    font-size: 30px;
+  }
+  .launch-time div span{
+    font-size: 18px;
+  }
+  .rocket{
+    display: none;
+  }
+  .testim{
+    width: 100%;
+    background:#1a1a1a;
+    padding: 15px;
+    min-height: 60vh;
+}
+.testim .wrap{
+    position: relative;
+    width: 100%;
+    max-width: 1020px;
+    padding: 40px 20px;
+    margin: auto;
+    margin-top: 100px;
+}
+html{
+  overflow-x: hidden;
+}
+
+  
+
+}
+@media screen and (min-width: 740px) and (max-width: 800px){
+   nav{
+  width: 100%;
+  position: absolute;
+}
+  .container .row .col-sm-6 iframe{
+   width: 100%;
+   margin-top: -5%;
+
+  }
+.new_event{
+  min-height: 19vh;
+}
+  
+.logo a img{
+    width: 300px;
+  margin-top: 10px;
+  margin-left: -100px;
+}
+  .sidebar-logo  i,
+    .navbar .bx-menu{
+      font-size: 25px;
+      color: #fff;
+     margin-left: -180px;
+     margin-top: -7px;
+    }
+    #tag h1{
+      font-size: 29px;
+      font-weight: 500;
+    }
+
+  nav .navbar .nav-links{
+    position: fixed;
+    top: 0;
+    left: -100%;
+    display: block;
+    max-width: 350px;
+    width: 100%;
+    background: black;
+    line-height: 40px;
+    padding: 20px;
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
+    transition: all 0.5s ease;
+    z-index: 1000;
+    overflow: auto;
+    overflow-x: hidden;
+  }
+  
+  
+     #tag blockquote{
+      font-size: 18px;
+
+     }
+    
+    #about h2{
+       font-size: 30px;
+      font-weight: 500;
+
+    }
+    .events h2{
+       font-size: 30px;
+      font-weight: 500;
+
+    }
+    .header{
+          background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(https://www.amity.edu/mumbai/images/mumbai.jpg);
+    min-height: 100vh;
+    animation: slider 9s infinite linear;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    justify-content: stretch;
+
+    }
+    @keyframes slider{
+    0%{
+       background-image:url(back.png);  
+      background-size: 100% 100%; 
+          animation: slider 9s infinite linear;
+
+      min-height: 100vh;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    justify-content: stretch;
+
+    }
+    10%{
+      
+      background-image:linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),url(https://www.amity.edu/mumbai/images/university.jpg); 
+
+       background-size: 100% 100%; 
+           animation: slider 9s infinite linear;
+
+        background-size: 100% 100%; 
+      min-height: 100vh;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    justify-content: stretch;
+     }
+
+} 
+   
+.description .row .col-sm-6 {
+   margin: 50px;
+    width: 700px;
+ align-items: center;
+ text-align: center;
+ padding: 20px;
+ display: block;
+ margin-top: -40px;
+  }
+  .description .row .col-sm-6 p{
+    margin-top: 0%;
+}
+.container .row .col-sm-6 img{
+  width: auto;
+}
+.header .arrows span{
+  display: block;
+    width: 18px;
+    height: 18px;
+}
+.events h2{
+  font-size: 29px;
+}
+#about h2{
+  font-size: 29px;
+}
+#what h1{
+  font-size: 29px;
+}
+#about h2:after {
+  content: "";
+  display: block;
+  width: 50px;
+  height: 4px;
+  background: #0a3057;
+  right: 45%;
+  top: 145%;
+  position: absolute;
+}
+.events h2:after {
+  content: "";
+  display: block;
+  width: 50px;
+  height: 4px;
+  background: #0a3057;
+  right: 45%;
+  top: 145%;
+  position: absolute;
+}
+.container .row .col-sm-6{
+    width: 650px;
+ align-items: center;
+ text-align: center;
+ margin: 50px;
+ display: block;
+ margin-top: -15px;
+
+}
+#what{
+  margin-top: -11%;
+}
+/*Vision and mission*/
+#particles-js{
+    background:#1a1a1a;
+    padding: 15px;
+    min-height:110vh;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;   
+    flex-direction: column;
+    justify-content: stretch;
+}
+#particles-js .container .row #vision{
+  margin-top:-10px;
+}
+#particles-js .container .row #mission{
+
+}
+  #particles-js .container .row #vision .heading h1{
+  margin-left:-100px;
+ }
+ #particles-js .container .row #mission .heading h1{
+  margin-left:-100px;
+  
+ }
+  #particles-js .container .row{
+    margin-left:15px;
+  }
+  .heading h1{
+    text-align: center;
+    font-weight: 800 !important;
+    color:#e69500;
+    font-size: 32px !important;
+
+  }
+  .text h3{
+    font-size: 16px !important;
+    color: #fff !important;
+    width:80%;
+  }
+  .custom-shape-divider-top-1635408830 {
+   
+    width: 120%;
+    overflow: hidden;
+   
+}
+.custom-shape-divider-bottom-1635442293 {
+
+    width: 140%;
+    overflow: hidden;
+}
+
+.custom-shape-divider-bottom-1635442293 svg {
+    position: relative;
+    display: block;
+    width: calc(100% + 1.3px);
+    height: 84px;
+}
+
+/*End of Vision*/
+input[type=text],input[type="mail"], select, textarea {
+  width: 90%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  margin-top: 6px;
+  margin-bottom: 16px;
+  resize: vertical;
+  color: black;
+  outline: 0px;
+}
+
+input[type=submit] {
+  color: black;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  width: 90%;
+}
+#contact .getintouch h1{
+  font-size: 27px;
+}
+#contact .getintouch h4{
+  font-size: 17px;
+}
+
+.container .row .col-sm-6 h1{
+  font-size: 24px;
+}
+.fa-arrow-up{
+  
+  padding: 6px;
+  border-radius: 40px;
+  font-size: 14px;
+  color: white;
+  cursor: pointer;
+  color: black;
+  background-color: #d1e3fa;
+}
+/*new component
+*/
+.new_event{
+  text-align: center;
+  width: auto;
+}
+ .container .row .col-sm-4 h1{
+  color: #ffffff;
+  font-size: 32px;
+  
+}
+
+.container .row .col-sm-4 h4{
+  font-size: 20px;
+  margin-left: 50px;
+}
+
+ .container .row .col-sm-4 h2{
+ 
+  }
+  /*Should be added*/
+  .container .row .col-sm-4 a{
+    margin-left: -100px;
+  }
+  .launch-time div{
+    margin-top: -45px;
+    margin-left: 8%;
+    text-align: center;
+  }
+  
+  .launch-time div p{
+    font-size: 30px;
+  }
+  .launch-time div span{
+    font-size: 18px;
+  }
+  .rocket{
+    display: none;
+  }
+  .footer .container .col-sm-2{
+         margin: 50px;
+    width: 580px;
+    display: block;
+  
+
+  }
+  .testim{
+    width: 100%;
+    background:#1a1a1a;
+    padding: 15px;
+    min-height: 60vh;
+}
+.testim .wrap{
+    position: relative;
+    width: 100%;
+    max-width: 1020px;
+    padding: 40px 20px;
+    margin: auto;
+    margin-top: 100px;
+}
+html{
+  overflow-x: hidden;
+}
+
+  
+
+}    
+@media screen and (min-width: 800px) and (max-width: 990px){
+  
+  .container .row .col-sm-6 iframe{
+   width: 100%;
+   margin-top: -10%;
+
+  }
+#description{
+  text-align: center;
+}
+  .container .welcome .row{
+    margin-left: -50px;
+
+  }
+  .container .welcome .row .col-sm-4{
+    margin-left: -10px;
+  }
+  .container .welcome #vision_mission{
+    margin-left: -50px;
+  }
+   .container .welcome .row .col-sm-6{
+ width: auto;
+ align-items: center;
+ text-align: center;
+ padding: 20px;
+ margin: 10px;
+}
+ .container .welcome .row .col-sm-4{
+ width: auto;
+ align-items: center;
+ text-align: center;
+ padding: 20px;
+ margin: 10px;
+}
+    #tag h1{
+      font-size: 32px;
+      font-weight: 500;
+    }
+  
+     #tag blockquote{
+      font-size: 20px;
+
+     }
+    
+    #about h2{
+       font-size: 32px;
+      font-weight: 500;
+
+    }
+    .events h2{
+       font-size: 32px;
+      font-weight: 500;
+
+    }
+    .header{
+      min-height: 100vh;
+    }
+     #particles-js{
+    background:#1a1a1a;
+    padding: 15px;
+    height: 95vh;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;   
+    flex-direction: column;
+    justify-content: stretch;
+}
+ #particles-js .container .row #vision .heading h1{
+  margin-left:50px;
+ }
+ #particles-js .container .row #mission .heading h1{
+  margin-left:-200px;
+  
+ }
+ .heading h1{
+    text-align: center;
+    font-weight: 800 !important;
+    color:#e69500;
+    font-size: 40px !important;
+
+  }
+  .text h3{
+    font-size: 16px !important;
+    color: #fff !important;
+    width:90%;
+  }
+  .testim{
+    width: 100%;
+    background:#1a1a1a;
+    padding: 15px;
+    min-height: 40vh;
+}
+.testim .wrap{
+    position: relative;
+    width: 100%;
+    max-width: 1020px;
+    padding: 40px 20px;
+    margin: auto;
+    margin-top: 100px;
+}
+  .header{
+ 
+    background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(https://www.amity.edu/mumbai/images/mumbai.jpg);
+    min-height: 100vh;
+    animation: slider 9s infinite linear;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    justify-content: stretch;
+
+}
+    @keyframes slider{
+    0%{
+       background-image:url(back.png);  
+      background-size: 100% 100%; 
+          animation: slider 9s infinite linear;
+
+      min-height: 100vh;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    justify-content: stretch;
+
+    }
+    10%{
+      
+      background-image:linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),url(https://www.amity.edu/mumbai/images/university.jpg); 
+
+       background-size: 100% 100%; 
+           animation: slider 9s infinite linear;
+
+        background-size: 100% 100%; 
+      min-height: 100vh;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    justify-content: stretch;
+     }
+
+} 
+  .description .row .col-sm-6 p{
+    margin-top: 0%;
+    width: 650px;
+    margin-top: -10%;
+   }
+
+.container .row .col-sm-6 img{
+  width: auto;
+}
+.header .arrows span{
+  display: block;
+    width: 18px;
+    height: 18px;
+}
+.events h2{
+  font-size: 32px;
+}
+#about h2{
+  font-size: 32px;
+}
+#what h1{
+  font-size: 32px;
+}
+#about h2:after {
+  content: "";
+  display: block;
+  width: 50px;
+  height: 4px;
+  background: #0a3057;
+  right: 45%;
+  top: 145%;
+  position: absolute;
+}
+.events h2:after {
+  content: "";
+  display: block;
+  width: 50px;
+  height: 4px;
+  background: #0a3057;
+  right: 45%;
+  top: 145%;
+  position: absolute;
+}
+.description .row .col-sm-6{
+    width: 700px;
+ align-items: center;
+ text-align: center;
+ margin: 50px;
+ display: block;
+
+}
+.container .row .col-sm-6 img{
+  text-align: center;
+}
+#what{
+  margin-top: 0%;
+  width:auto;
+}
+#what h1{
+  margin-left: auto;
+}
+
+input[type=text],input[type="mail"], select, textarea {
+  width: 70%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  margin-top: 6px;
+  margin-bottom: 16px;
+  resize: vertical;
+  color: black;
+  outline: 0px;
+}
+
+input[type=submit] {
+  color: black;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  width: 70%;
+}
+#contact .getintouch h1{
+  font-size: 27px;
+}
+#contact .getintouch h4{
+  font-size: 17px;
+}
+
+.container .row .col-sm-6 h1{
+  font-size: 24px;
+}
+.fa-arrow-up{
+  
+  padding: 6px;
+  border-radius: 40px;
+  font-size: 14px;
+  color: white;
+  cursor: pointer;
+  color: black;
+  background-color: #d1e3fa;
+}
+/*new component
+*/
+.new_event{
+  text-align: center;
+  width: auto;
+}
+ .container .row .col-sm-4 h1{
+  color: #ffffff;
+  font-size: 32px;
+  margin-left: -60px;
+}
+.container .row .col-sm-4 h4{
+  font-size: 20px;
+  margin-left: 50px;
+}
+
+ .container .row .col-sm-4 h2{
+  display: none;
+  }
+  /*Should be added*/
+  .container .row .col-sm-4 a{
+    margin-left: -100px;
+  }
+  .launch-time div{
+    margin-top: -45px;
+    margin-left: 8%;
+    text-align: center;
+  }
+  
+  .launch-time div p{
+    font-size: 30px;
+  }
+  .launch-time div span{
+    font-size: 18px;
+  }
+  .footer .container .col-sm-2{
+    margin: 50px;
+    width: 580px;
+    display: block;
+  
+
+  }
+  .rocket{
+    display: none;
+  }
+  .icons{display: none;}
+html{
+  overflow-x: hidden;
+}
+
+  .new_event{
+  min-height: 18vh;
+  
+
+}
+}
+@media screen and (min-width: 990px) and (max-width: 1199px){
+  .container .row .col-sm-6 iframe{
+   width: 118%;
+   margin-top: -10%;
+
+  }
+#description{
+  text-align: center;
+}
+    #tag h1{
+      font-size: 33px;
+      font-weight: 500;
+    }
+  
+     #tag blockquote{
+      font-size: 20px;
+
+     }
+    
+    #about h2{
+       font-size: 32px;
+      font-weight: 500;
+
+    }
+    .events h2{
+       font-size: 32px;
+      font-weight: 500;
+
+    }
+    .new_event{
+  min-height: 18vh;
+  
+}
+   .header{
+    min-height: 100vh;
+   }
+    @keyframes slider{
+    0%{
+       background-image:url(back.png);  
+      background-size: 100% 100%; 
+          animation: slider 9s infinite linear;
+
+      min-height: 100vh;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    justify-content: stretch;
+
+    }
+    10%{
+      
+      background-image:linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),url(https://www.amity.edu/mumbai/images/university.jpg); 
+
+       background-size: 100% 100%; 
+           animation: slider 9s infinite linear;
+
+        background-size: 100% 100%; 
+      min-height: 100vh;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    justify-content: stretch;
+     }
+
+} 
+  .description .row .col-sm-6 p{
+    margin-top: 0%;
+    width: 850px;
+    margin-top: -10%;
+   }
+
+.container .row .col-sm-6 img{
+  width: auto;
+}
+.header .arrows span{
+  display: block;
+    width: 18px;
+    height: 18px;
+}
+.events h2{
+  font-size: 32px;
+}
+#about h2{
+  font-size: 32px;
+}
+#what h1{
+  font-size: 32px;
+}
+#about h2:after {
+  content: "";
+  display: block;
+  width: 50px;
+  height: 4px;
+  background: #0a3057;
+  right: 45%;
+  top: 145%;
+  position: absolute;
+}
+.events h2:after {
+  content: "";
+  display: block;
+  width: 50px;
+  height: 4px;
+  background: #0a3057;
+  right: 45%;
+  top: 145%;
+  position: absolute;
+}
+.description .row .col-sm-6{
+    width: 700px;
+ align-items: center;
+ text-align: center;
+ margin: 50px;
+ display: block;
+
+}
+.container .row .col-sm-6 img{
+  text-align: center;
+}
+#what{
+  margin-top: 0%;
+  width:auto;
+}
+#what h1{
+  margin-left: auto;
+}
+ #particles-js{
+    background:#1a1a1a;
+    padding: 15px;
+    min-height:70vh;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;   
+    flex-direction: column;
+    justify-content: stretch;
+}
+ #particles-js .container .row #vision .heading h1{
+  margin-left:50px;
+ }
+ #particles-js .container .row #mission .heading h1{
+  margin-left:-200px;
+  
+ }
+ .heading h1{
+    text-align: center;
+    font-weight: 800 !important;
+    color:#e69500;
+    font-size: 40px !important;
+
+  }
+  .text h3{
+    font-size: 16px !important;
+    color: #fff !important;
+    width:90%;
+  }
+  .testim{
+    width: 100%;
+    background:#1a1a1a;
+    padding: 15px;
+    min-height: 40vh;
+}
+.testim .wrap{
+    position: relative;
+    width: 100%;
+    max-width: 1020px;
+    padding: 40px 20px;
+    margin: auto;
+    margin-top: 100px;
+}
+input[type=text],input[type="mail"], select, textarea {
+  width: 70%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  margin-top: 6px;
+  margin-bottom: 16px;
+  resize: vertical;
+  color: black;
+  outline: 0px;
+}
+
+input[type=submit] {
+  color: black;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  width: 70%;
+}
+#contact .getintouch h1{
+  font-size: 27px;
+}
+#contact .getintouch h4{
+  font-size: 17px;
+}
+
+.container .row .col-sm-6 h1{
+  font-size: 24px;
+}
+.fa-arrow-up{
+  
+  padding: 6px;
+  border-radius: 40px;
+  font-size: 14px;
+  color: white;
+  cursor: pointer;
+  color: black;
+  background-color: #d1e3fa;
+}
+/*new component
+*/
+.new_event{
+  text-align: center;
+  width: auto;
+}
+ .container .row .col-sm-4 h1{
+  color: #ffffff;
+  font-size: 32px;
+  margin-left: -60px;
+}
+.container .row .col-sm-4 h4{
+  font-size: 20px;
+  margin-left: 50px;
+}
+
+ .container .row .col-sm-4 h2{
+  display: none;
+  }
+  /*Should be added*/
+  .container .row .col-sm-4 a{
+    margin-left: -100px;
+  }
+  .launch-time div{
+    margin-top: -45px;
+    margin-left: 8%;
+    text-align: center;
+  }
+  
+  .launch-time div p{
+    font-size: 30px;
+  }
+  .launch-time div span{
+    font-size: 18px;
+  }
+  .footer .container .col-sm-2{
+         margin: 50px;
+    width: 780px;
+    display: block;
+  
+
+  }
+  .rocket{display: none;}
+  .icons{display: none;}
+
+html{
+  overflow-x: hidden;
+}
+  
+
+  }
+@media screen and (min-width: 1199px) and (max-width: 1499px){
+   #particles-js{
+    background:#1a1a1a;
+    padding: 15px;
+    min-height: 90vh;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;   
+    flex-direction: column;
+    justify-content: stretch;
+}
+#vision{
+  margin-left: 0px;
+}
+ #vision .heading h1{
+  margin-left:0px;
+ }
+  #mission .heading h1{
+  margin-left:0px;
+ }
+ #mission .mission_text h3{
+  margin-left:0px;
+ }
+ .heading h1{
+    text-align: center;
+    font-weight: 800 !important;
+    color:#e69500;
+    font-size: 40px !important;
+
+  }
+  
+  .custom-shape-divider-top-1635408830 svg {
+    position: relative;
+    display: block;
+    width: calc(145% + 1.3px);
+    height: 164px;
+    outline: none;
+    border: none;
+}
+.testim{
+    width: 100%;
+    background:#1a1a1a;
+    padding: 15px;
+    min-height:60vh;
+}
+.testim .wrap{
+    position: relative;
+    width: 100%;
+    max-width: 1020px;
+    padding: 40px 20px;
+    margin: auto;
+    margin-top: 100px;
+}
+
+}
